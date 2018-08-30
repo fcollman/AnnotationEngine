@@ -25,4 +25,3 @@ python run.py
 ```
 
 A Dockerfile is provided for running app through uwsgi and nginx for more production deployments. 
-
